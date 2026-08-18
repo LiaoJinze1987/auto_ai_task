@@ -2,6 +2,8 @@
 /openclaw/*
 
 # 允许上传自己的说明/配置文件
+/openclaw/*
+!/openclaw/
 !/openclaw/python调用openclaw.txt
 !/openclaw/配置openclaw.txt
 
