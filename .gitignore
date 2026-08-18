@@ -1,0 +1,19 @@
+# OpenClaw 本地运行目录
+/openclaw/*
+
+# 允许上传自己的说明/配置文件
+!/openclaw/python调用openclaw.txt
+!/openclaw/配置openclaw.txt
+
+# Python
+/python/.venv/
+/python/__pycache__/
+*.pyc
+
+# 临时文件
+*_request.txt
+*.tmp
+
+# Flutter
+/flutter/.dart_tool/
+/flutter/build/
